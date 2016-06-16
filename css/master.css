@@ -21,17 +21,6 @@ html, body {
   font-family: uzura;
 }
 
-#top-information h3 {
-  font-family: 'Alegreya', serif;
-}
-
-#top-information {
-  width: 30%;
-  position: absolute;
-  right: 300px;
-  top: 30px;
-}
-
 #information {
   margin-top: 50px;
   font-family: uzura;
