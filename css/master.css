@@ -3,6 +3,10 @@ html, body {
   font-size: 17px;
 }
 
+p {
+  font-size:16px; line-height: 1.7
+}
+
 h3 {
   font-size: 18px;
 }
@@ -34,6 +38,7 @@ h3 {
 .no-bullets {
   list-style-type: none;
   padding: 0px;
+  font-size: 16px;
 }
 
 #information h3 {
@@ -93,6 +98,7 @@ input:focus, textarea:focus {
 footer {
   margin: 50px 0px 10px;
   font-family: 'Alegreya SC', serif;
+  font-size: 15px;
 }
 
 @font-face {
