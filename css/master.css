@@ -1,0 +1,76 @@
+html, body {
+  font-family: uzura;
+}
+
+.container {
+  margin: 0px 15%;
+}
+
+#main-container {
+  width: 80%;
+  margin: 0 auto;
+  font-family: 'Alegreya SC', serif;
+  text-align: center;
+}
+
+#top { 
+  /*background: url(../images/top.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: auto;
+  width: auto;*/
+  font-family: uzura;
+}
+
+#top-image h3 {
+  font-family: 'Alegreya', serif;
+}
+
+#top-information {
+  width: 30%;
+  position: absolute;
+  right: 300px;
+}
+
+#information {
+  margin-top: 50px;
+  font-family: uzura;
+}
+
+.no-bullets {
+  list-style-type: none;
+  padding: 0px;
+}
+
+#information h3 {
+  font-family: 'Alegreya', serif;
+}
+
+#concept {
+  margin-top: 50px;
+  font-family: uzura;
+}
+
+footer {
+  margin: 50px 0px;
+  font-family: 'Alegreya SC', serif;
+}
+
+@font-face {
+  font-family: uzura;
+  src: url(../fonts/uzura.ttf);
+}
+
+nav li {
+  display: inline;
+  margin: 0px 25px;
+  font-size: 20px;
+}
+
+nav li a {
+  color: black;
+  font-family: 'Alegreya SC', serif;
+  text-decoration: none;
+}
