@@ -1,5 +1,10 @@
 html, body {
   font-family: uzura;
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 16px;
 }
 
 .container {
@@ -102,6 +107,7 @@ nav li {
 }
 
 nav li a {
+  font-size: 16px;
   color: black;
   font-family: 'Alegreya SC', serif;
   text-decoration: none;
